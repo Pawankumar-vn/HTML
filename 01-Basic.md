@@ -1,3 +1,5 @@
+
+```html
 <!-- Understanding HTML and its use Cases -->
 
 HTML (HyperText Markup Language) is the standard language for creating web
@@ -8,7 +10,6 @@ Displaying Content Creating Links Embedding Media Building Forms Search Engine
 Optimization (SEO)
 
 <!-- Understand HTML Structure -->
-
 <!DOCTYPE html>
 <!-- Defines document type (HTML5) -->
 <html lang="en">
